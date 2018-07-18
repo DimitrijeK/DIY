@@ -1,2 +1,2 @@
 # DIY
-Arduino Nano &amp; Distance Sensor
+Arduino Projects
