@@ -1,6 +1,9 @@
 ARDUINO NANO & DISTANCE SENSOR
 WITH LED DIODE
 
+Did this project for fun and to learn how arduino and other hardware components work.
+Attached distance sensor to the breadboard and made LED flash based on what distance the object
+in front is. If it is really close it will flash red then orange and green if it is not close, at all.
 
 *** Hardware Components Needed: ***
 
